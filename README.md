@@ -36,5 +36,3 @@ The model achieves an accuracy of approximately 98.05% on the test set. The trai
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-Feel free to modify the content and sections according to your specific project needs. Make sure to include appropriate information about the dataset, installation instructions, usage details, results, and any contribution guidelines or license information.
